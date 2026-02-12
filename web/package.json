@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build  --base=/diffusion-avatar/",
+    "build": "vite build  --base=/Diffusion_Avatar_Generator/",
     "preview": "vite preview"
   },
   "devDependencies": {

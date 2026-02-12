@@ -2,7 +2,7 @@
 
 > A browser-only diffusion avatar demo — no backend, just WebAssembly & Web Workers!
 
-🔗 **Live demo:** https://yhh1008.github.io/diffusion-avatar/
+🔗 **Live demo:** https://yhh1008.github.io/Diffusion_Avatar_Generator/
 
 ---
 
@@ -15,6 +15,5 @@
 - Exposes an **“Acceleration”** slider so you can trade off speed ↔ image quality via DDIM skips  
 
 All model weights and inference code live in a Web Worker under `public/64x64_cosin_300/`.
-
 
 
